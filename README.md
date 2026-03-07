@@ -79,3 +79,7 @@ https://www.linkedin.com/in/deekshanyashri-l
 
 💻 GitHub
 https://github.com/Deekshanya-shriL
+
+🔗 Portfolio
+https://deekshanya-shri-l.youware.app/#about
+
