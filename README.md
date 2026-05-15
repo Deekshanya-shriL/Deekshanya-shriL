@@ -44,13 +44,14 @@ Quality Control
 Sustainable Processing
 Literature Research
 
+
 ### AI & Digital Tools
 
 Prompt Engineering
 AI Research Tools
 Google Workspace
 MS Office
-
+AI Food engineers
 ---
 
 ## 📚 Conferences & Learning
